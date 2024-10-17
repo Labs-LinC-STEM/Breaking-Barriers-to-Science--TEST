@@ -10,6 +10,6 @@ STEM grade 9 high school students will be provided with the chance to conduct in
 
 This project has been financially supported by the UTSC 60th Legacy Award (https://www.utsc.utoronto.ca/home/u-t-scarborough-60), the Department of Biological Sciences E.D.I Committee (through a P.I.E grant, https://www.utsc.utoronto.ca/biosci/biological-sciences-edi), and in-kind support by the Andrade lab (https://www.utsc.utoronto.ca/labs/andrade/personnel/), and the Departments of Biological Sciences and Computer and Mathematical Sciences at UTSC.
 
-The materials avaialble in this project are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
+The materials available in this project are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 
 (c) Luciana Baruffaldi
